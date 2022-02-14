@@ -846,7 +846,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Call To Action Section
 --------------------------------*/
 #call-to-action {
-  background: #623b2a;
+  background: #e04e39;
   background-size: cover;
   padding: 40px 0;
 }
@@ -1109,7 +1109,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about {
-  background: url(../img/pattern.png) no-repeat 100% 50%;
+    background-color: #eee2d6;
 }
 
 #logo a {
